@@ -153,7 +153,11 @@ footer{
     align-items: center;
     justify-content: center;
     border: 1px solid #000;
+<<<<<<< HEAD
     background-image: url(../Images/footer\ banner.jpg);
+=======
+    background-image: url(../Images/landscape/footer\ banner.jpg);
+>>>>>>> origin/master
     background-size: cover;
     margin-top: 5px;
 }
