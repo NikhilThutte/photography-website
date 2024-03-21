@@ -8,15 +8,15 @@ body {
   flex-direction: column;
 }
 .container1 {
-  width: 80%;
-  min-height: 20vh;
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  /* border: 1px solid #000; */
-}
-.social-media {
-  width: 100%;
+    width: 80%;
+    min-height: 20vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid #000; */
+  }
+  .social-media {
+    width: 100%;
   height: 9vh;
   /* border: 1px solid #000;  */
   border-bottom: 2px solid black;
